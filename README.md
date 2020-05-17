@@ -1,6 +1,6 @@
 # slainte
 
-Food recommendation based on previous health history using Computer vision and Deep learning.
+Food recommendation system based on previous health history using Computer vision and Deep learning.
 
 Contributor : 
              Satu
